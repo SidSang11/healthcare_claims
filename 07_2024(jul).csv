@@ -1,0 +1,228 @@
+Claim ID	Provider ID	Patient ID	Date of Service	Billed Amount	Procedure Code	Diagnosis Code	Allowed Amount	Paid Amount	Insurance Type	Claim Status	Reason Code	Follow-up Required	AR Status	Outcome
+1QEU1AIDAU	1355108115	2611585318	7/4/24	235	99213	A00.1	148	119	Commercial	Under Review	Duplicate claim	No	Denied	Denied
+M6OJEZ8KGI	7382167012	2140226267	7/16/24	406	99238	A17.9	320	259	Medicare	Denied	Authorization not obtained	No	On Hold	Denied
+G7C9QQKWHN	4996652383	1558663046	7/28/24	358	99221	A01.9	249	202	Medicare	Denied	Incorrect billing information	No	Closed	Paid
+TLU7MTJ63J	6675789567	1861061750	7/16/24	126	99238	A05.4	109	108	Medicare	Denied	Authorization not obtained	No	Closed	Partially Paid
+BCCMJ8LJ96	3104304757	5311844927	7/2/24	260	99213	A03.3	178	172	Medicaid	Denied	Patient eligibility issues	Yes	Denied	Denied
+T3ZDMQHOSX	2491663842	6867451346	7/30/24	146	99213	A08.1	102	99	Medicaid	Under Review	Authorization not obtained	Yes	Denied	Partially Paid
+TCXP3XFFDS	5725279994	2860208500	7/11/24	285	99213	A16.3	228	215	Medicare	Paid	Service not covered	Yes	On Hold	Paid
+IF5G6HAB92	2554215460	5372537165	7/16/24	139	99222	A18.1	109	104	Medicaid	Paid	Patient eligibility issues	Yes	Denied	Denied
+2SARP2I5H9	5948416270	3734914882	7/19/24	160	99221	A16.8	137	123	Commercial	Under Review	Service not covered	No	Partially Paid	Denied
+AYT4TJVKH7	3356892406	8155075476	7/26/24	202	99215	A06.3	139	135	Medicaid	Paid	Authorization not obtained	No	Partially Paid	Partially Paid
+RAMTWM13DS	9598748420	9555599294	7/16/24	448	99231	A08.0	303	288	Self-Pay	Denied	Lack of medical necessity	Yes	On Hold	Denied
+U45AZS93YA	276875673	2413503202	7/19/24	363	99238	A00.1	230	226	Medicaid	Denied	Pre-existing condition	No	Closed	Paid
+8HAXMI6098	4940537911	8760497936	7/16/24	455	99232	A04.7	364	363	Self-Pay	Denied	Duplicate claim	No	Pending	Denied
+W144BLZQ5X	5086198813	3106896121	7/20/24	446	99232	A08.3	333	281	Self-Pay	Under Review	Duplicate claim	Yes	On Hold	Denied
+NHHPZSIUQ1	3019535482	8728813610	7/2/24	336	99221	A00.0	285	269	Medicaid	Denied	Patient eligibility issues	No	Pending	Denied
+HEDXUK78NG	4152060505	7964379382	7/13/24	107	99223	A06.0	73	60	Commercial	Paid	Pre-existing condition	No	Partially Paid	Denied
+Y4I4JQPVK4	8925429111	9342177346	7/11/24	267	99215	A05.4	214	171	Self-Pay	Under Review	Authorization not obtained	Yes	Open	Paid
+7TSWS4AHEN	9229693925	1321174155	7/13/24	439	99238	A05.1	319	305	Commercial	Under Review	Service not covered	No	On Hold	Paid
+PRD42TVDPG	3171908963	1546370434	7/16/24	481	99223	A07.1	347	337	Commercial	Denied	Lack of medical necessity	Yes	Denied	Denied
+L89UDLJ2NI	1195127701	6284611941	7/28/24	215	99233	A06.5	190	169	Medicare	Under Review	Pre-existing condition	Yes	Closed	Partially Paid
+I5ZQJAAX9H	8277008145	3346140607	7/4/24	268	99222	A02.0	162	148	Self-Pay	Paid	Pre-existing condition	Yes	On Hold	Denied
+UETPKIKATP	5280104835	1789165968	7/2/24	343	99223	A19.0	253	237	Medicaid	Paid	Missing documentation	No	Denied	Paid
+3JA9PT2RH3	8568987770	2319430074	7/12/24	261	99214	A06.0	179	170	Medicare	Under Review	Duplicate claim	No	Pending	Denied
+8M9EXYS5CT	7420264964	8579094054	7/6/24	394	99215	A03.8	278	267	Self-Pay	Under Review	Authorization not obtained	Yes	Open	Paid
+SD9AW0B386	7144619443	8693623852	7/4/24	237	99222	A02.1	150	131	Commercial	Under Review	Lack of medical necessity	Yes	Denied	Denied
+NXKCCKA5NX	1101279902	537893497	7/23/24	460	99231	A18.9	399	373	Medicaid	Denied	Service not covered	No	Closed	Partially Paid
+EMEH7GT8L5	6196395962	5164191784	7/29/24	236	99214	A03.1	182	161	Self-Pay	Denied	Lack of medical necessity	No	Pending	Denied
+LD9ZVUWJ7S	9013578440	5425052193	7/10/24	335	99214	A15.0	250	217	Medicaid	Under Review	Missing documentation	Yes	Closed	Paid
+XK6VBWVA46	2562995440	7943708460	7/16/24	281	99238	A18.5	206	190	Self-Pay	Paid	Incorrect billing information	No	Closed	Paid
+JAC7K36F6Y	8091673296	5236895806	7/5/24	379	99233	A18.6	330	274	Commercial	Denied	Incorrect billing information	No	Closed	Paid
+7J1R25LVGG	5413249070	2799029082	7/31/24	476	99214	A02.4	357	344	Medicaid	Under Review	Duplicate claim	No	Closed	Denied
+SX8SWSLL97	6752221216	3603720377	7/27/24	152	99213	A16.9	110	95	Medicare	Under Review	Service not covered	Yes	Denied	Paid
+FWFLP75LPZ	1010489751	3742237646	7/25/24	314	99214	A06.3	225	221	Medicaid	Under Review	Patient eligibility issues	Yes	Denied	Paid
+65XDY8M28P	5500900324	3359348312	7/21/24	156	99238	A15.0	119	118	Self-Pay	Denied	Authorization not obtained	Yes	On Hold	Denied
+D7B9YJ8WSE	8370026091	4863832209	7/27/24	251	99213	A16.0	181	173	Self-Pay	Paid	Incorrect billing information	Yes	Closed	Paid
+I3W13NNO8Q	6763652717	7851510784	7/15/24	359	99233	A04.1	303	276	Medicare	Denied	Authorization not obtained	No	On Hold	Paid
+3SM4G4NZMA	7211807376	1941374790	7/28/24	336	99221	A19.9	208	194	Self-Pay	Denied	Lack of medical necessity	No	Pending	Paid
+W7NKLL5GMD	1191852769	3896716396	7/31/24	365	99213	A01.9	289	233	Commercial	Under Review	Authorization not obtained	No	Open	Partially Paid
+E5WVM3JMNQ	7216892619	8474448865	7/3/24	115	99231	A01.0	97	94	Medicare	Under Review	Service not covered	No	Open	Denied
+AY4L0KGRHL	6218708524	2444468779	7/23/24	216	99222	A05.7	137	113	Medicaid	Under Review	Authorization not obtained	Yes	Closed	Paid
+CQILUKTAFA	5779906232	6484108966	7/31/24	351	99213	A02.4	302	262	Commercial	Paid	Lack of medical necessity	Yes	Pending	Paid
+56F9KQZFDL	337273433	5547781047	7/17/24	316	99238	A03.8	234	189	Medicare	Denied	Authorization not obtained	No	Closed	Denied
+QS994CBH9A	6912374401	4655168538	7/28/24	250	99221	A01.5	191	178	Self-Pay	Paid	Patient eligibility issues	No	Open	Denied
+RKGK9M4GZO	3627070036	6437832238	7/29/24	432	99231	A16.3	263	231	Medicare	Paid	Pre-existing condition	Yes	Partially Paid	Partially Paid
+BWTZDPRYZZ	9761933078	2612404520	7/31/24	459	99215	A02.1	287	230	Medicaid	Under Review	Lack of medical necessity	Yes	Open	Partially Paid
+EWUTRPI1J8	1696229134	3378178612	7/3/24	152	99238	A09.0	104	86	Medicaid	Denied	Authorization not obtained	No	Closed	Paid
+96XG4GK9RV	1745181757	7333939603	7/14/24	355	99238	A03.2	225	190	Self-Pay	Under Review	Authorization not obtained	No	Pending	Partially Paid
+HD07525Z0X	8887244725	9781272640	7/9/24	288	99233	A19.8	202	170	Commercial	Paid	Missing documentation	Yes	Pending	Partially Paid
+B4MSXFA2GR	3666892635	4746989996	7/3/24	158	99215	A06.5	112	105	Commercial	Paid	Incorrect billing information	Yes	Partially Paid	Denied
+J0FY34DBL2	341965448	3179392054	7/31/24	234	99214	A19.0	157	130	Commercial	Denied	Incorrect billing information	No	Open	Partially Paid
+6E6Q3BQE0N	9271966642	7903926678	7/28/24	254	99238	A08.9	193	177	Medicare	Denied	Incorrect billing information	Yes	Denied	Paid
+QYKLHSFZT2	6365307113	2343189144	7/16/24	182	99215	A01.9	138	123	Commercial	Paid	Authorization not obtained	Yes	Pending	Denied
+VVEOSUKMII	8143419395	69035867	7/22/24	495	99238	A02.8	372	320	Commercial	Denied	Duplicate claim	No	Pending	Partially Paid
+ZJX40JVXLG	4766670055	7078540382	7/26/24	306	99232	A00.1	266	248	Medicaid	Denied	Patient eligibility issues	Yes	Denied	Denied
+4PRWBE0QQ3	5161831992	7180734565	7/24/24	236	99214	A05.6	198	172	Medicare	Paid	Pre-existing condition	Yes	Pending	Partially Paid
+DA52QW9HGS	549977115	3913444340	7/4/24	354	99214	A05.9	218	212	Self-Pay	Paid	Pre-existing condition	No	Denied	Paid
+P88ZS7XL1F	8493823195	9919663635	7/18/24	325	99231	A06.4	281	257	Self-Pay	Paid	Pre-existing condition	Yes	Closed	Paid
+HIBKOPNEIE	5658593746	4027037581	7/25/24	456	99238	A08.0	379	337	Commercial	Denied	Lack of medical necessity	Yes	Pending	Denied
+7JKH2VI6DD	7274850471	806587902	7/16/24	320	99222	A00.1	193	186	Medicare	Under Review	Patient eligibility issues	Yes	Open	Partially Paid
+302RLDJRB7	5521027680	2456650289	7/3/24	116	99221	A05.6	91	86	Medicare	Denied	Service not covered	No	Partially Paid	Denied
+PXYIFX4268	111343888	2826845391	7/8/24	418	99238	A07.9	325	281	Medicaid	Denied	Incorrect billing information	No	Open	Denied
+O3CSIRMW8P	4116284142	6072263395	7/26/24	446	99215	A05.5	377	363	Medicaid	Under Review	Lack of medical necessity	Yes	On Hold	Denied
+8HM2VGTBHP	8417655171	5080353117	7/28/24	303	99223	A18.5	212	184	Commercial	Denied	Missing documentation	Yes	Pending	Partially Paid
+6RUEXRV795	539159241	563454150	7/22/24	444	99223	A16.0	363	324	Commercial	Under Review	Missing documentation	Yes	Open	Partially Paid
+8JOH31L3XF	5371024172	263933529	7/4/24	126	99213	A16.8	107	98	Medicaid	Under Review	Missing documentation	Yes	Closed	Denied
+6LPK8EMVDS	130734670	174981020	7/31/24	205	99238	A01.9	166	137	Self-Pay	Denied	Duplicate claim	No	Pending	Paid
+ES1H10757M	7233443454	9145404833	7/23/24	117	99231	A18.6	99	97	Medicaid	Under Review	Patient eligibility issues	No	Open	Denied
+BADGAN63O1	456145390	9008471630	7/25/24	172	99222	A05.4	147	127	Medicare	Under Review	Incorrect billing information	Yes	Open	Paid
+75AMCU420G	7285626297	286087718	7/5/24	177	99238	A05.1	121	99	Commercial	Denied	Incorrect billing information	Yes	On Hold	Paid
+JS9Z9BOJW0	3937216249	5042879695	7/28/24	242	99214	A04.8	167	151	Self-Pay	Paid	Pre-existing condition	No	Denied	Paid
+RYK7V1USXY	5897418358	2950177319	7/14/24	336	99221	A09.0	238	199	Medicare	Paid	Missing documentation	No	On Hold	Partially Paid
+68L79548I3	9283102351	1208634062	7/18/24	353	99238	A02.3	216	214	Self-Pay	Under Review	Service not covered	Yes	Denied	Denied
+TNT7EEVKZX	2806576174	6537516979	7/23/24	370	99215	A02.1	287	261	Medicare	Under Review	Lack of medical necessity	Yes	Closed	Partially Paid
+4LMUCC6EEL	5841571573	7939533727	7/16/24	395	99221	A17.1	239	227	Medicare	Paid	Duplicate claim	Yes	Closed	Paid
+CVF7Y7KAOZ	7101620088	3150047663	7/15/24	367	99232	A01.4	246	224	Medicaid	Paid	Lack of medical necessity	No	Denied	Paid
+R7RLXFRSWX	4228202914	9942429653	7/22/24	297	99222	A02.0	252	213	Commercial	Denied	Lack of medical necessity	No	Open	Partially Paid
+WE9JLOLRC8	5076752709	7310074933	7/21/24	474	99215	A06.7	377	307	Medicaid	Under Review	Pre-existing condition	No	Pending	Denied
+UXDDPVCG8H	2247565484	177752633	7/7/24	143	99223	A18.5	94	78	Medicare	Paid	Patient eligibility issues	Yes	Open	Denied
+FOUC4DURB1	555367293	844074830	7/21/24	439	99213	A03.2	302	274	Self-Pay	Denied	Incorrect billing information	Yes	Denied	Partially Paid
+IN0BAMQIXM	6662024316	3995084617	7/21/24	445	99222	A15.9	338	326	Commercial	Denied	Authorization not obtained	No	Denied	Partially Paid
+J0JCK9H2HR	1248011421	102660729	7/20/24	166	99233	A01.6	100	87	Medicaid	Denied	Lack of medical necessity	Yes	Pending	Paid
+TC3HF0R7CG	8320900159	9179542709	7/11/24	419	99213	A03.2	308	282	Medicaid	Paid	Service not covered	Yes	Denied	Paid
+VIQOSRTPW6	9233010989	3902268195	7/17/24	331	99223	A05.9	246	231	Medicaid	Paid	Patient eligibility issues	Yes	Partially Paid	Denied
+6JFCY852AG	2431179878	6019180780	7/31/24	123	99238	A18.7	76	70	Medicaid	Denied	Patient eligibility issues	No	On Hold	Partially Paid
+BPQGMWQA5R	572724767	4513260071	7/1/24	348	99213	A00.1	214	176	Medicare	Denied	Pre-existing condition	Yes	On Hold	Paid
+3VEZPISXYZ	9514225566	7417850570	7/6/24	472	99222	A08.0	293	256	Medicaid	Paid	Patient eligibility issues	Yes	On Hold	Partially Paid
+SVR2H11FYO	6813884956	1223676820	7/28/24	485	99221	A01.3	418	389	Medicare	Under Review	Authorization not obtained	No	Pending	Partially Paid
+XF5680G3VT	785844960	3669505885	7/6/24	371	99223	A16.8	238	207	Self-Pay	Denied	Authorization not obtained	No	Open	Denied
+LQYHO7NJCW	5416156337	3838996686	7/18/24	432	99238	A06.8	262	221	Commercial	Paid	Pre-existing condition	No	Denied	Partially Paid
+96MDHYJRRY	7252880086	4090505090	7/2/24	190	99213	A18.8	166	164	Commercial	Denied	Pre-existing condition	Yes	Denied	Partially Paid
+CCDDLJ7UW8	8580010110	7662231425	7/8/24	474	99231	A19.9	416	405	Commercial	Paid	Authorization not obtained	No	Open	Partially Paid
+AHYTK3IUCS	9782402922	1307098193	7/30/24	303	99222	A01.6	198	194	Medicare	Under Review	Service not covered	No	Pending	Partially Paid
+WQJ50L25Y4	6597943752	6244168815	7/24/24	331	99233	A09.9	271	231	Commercial	Under Review	Lack of medical necessity	No	Denied	Denied
+DNFMWNRD9U	9590068541	9571328178	7/28/24	111	99232	A02.2	70	66	Medicare	Denied	Patient eligibility issues	No	Partially Paid	Paid
+12RGJ3FDA4	7120927920	9180186945	7/21/24	364	99232	A17.8	316	287	Commercial	Under Review	Incorrect billing information	No	Pending	Denied
+OLJ2M5UCO2	5291618217	7503967101	7/15/24	208	99213	A16.2	148	145	Medicare	Under Review	Authorization not obtained	Yes	Pending	Partially Paid
+4LTCMW1PQS	6072769324	4557615060	7/28/24	468	99215	A03.3	377	314	Self-Pay	Paid	Incorrect billing information	No	On Hold	Denied
+L2ENUTGO5B	648869700	6623800330	7/20/24	435	99233	A00.9	358	299	Medicaid	Paid	Incorrect billing information	No	Open	Paid
+HPXPNC70AU	8470537100	4324603209	7/31/24	163	99232	A01.4	103	101	Medicare	Under Review	Service not covered	Yes	Denied	Denied
+GFHQX72JNU	4773078033	9924142686	7/6/24	107	99221	A16.5	81	67	Medicaid	Under Review	Missing documentation	Yes	On Hold	Paid
+O41UCA1NV5	9862894951	6882509757	7/17/24	274	99238	A19.0	181	178	Self-Pay	Paid	Authorization not obtained	Yes	Pending	Denied
+VN32TA88KS	5321622483	9404091979	7/23/24	103	99238	A05.5	73	69	Medicaid	Under Review	Patient eligibility issues	No	On Hold	Denied
+RH0CA7UMA5	7316706692	6402426562	7/31/24	151	99222	A00.1	102	98	Commercial	Denied	Patient eligibility issues	Yes	Open	Paid
+FY4ARNIAR0	611872923	8090101999	7/23/24	336	99221	A05.7	278	273	Medicare	Denied	Pre-existing condition	No	Closed	Paid
+2SGU0UOZN5	540646353	7121601568	7/4/24	142	99214	A07.0	125	110	Medicare	Denied	Authorization not obtained	Yes	Denied	Denied
+EFI4YJFPYP	7173658674	9015349934	7/28/24	454	99215	A03.2	403	401	Self-Pay	Under Review	Lack of medical necessity	Yes	Open	Denied
+PBAFT6EYLJ	4053169361	3931389346	7/3/24	261	99213	A03.0	194	162	Medicaid	Under Review	Missing documentation	Yes	Pending	Partially Paid
+KZX6FP6J9O	9984515919	4829525502	7/31/24	328	99214	A02.4	254	210	Medicare	Paid	Pre-existing condition	No	Open	Partially Paid
+2WHWNIY1TM	80027935	3875197604	7/12/24	389	99231	A00.1	302	283	Medicaid	Under Review	Duplicate claim	No	Open	Denied
+586EP1QAYC	5979481379	8184148716	7/16/24	217	99213	A19.9	131	118	Medicaid	Paid	Service not covered	Yes	Pending	Partially Paid
+OF7UX4XGSW	6059884343	6115114048	7/15/24	112	99223	A08.4	77	75	Medicare	Paid	Missing documentation	Yes	Open	Paid
+9Y20UR7643	5081779992	3646255868	7/31/24	499	99215	A18.5	423	374	Commercial	Paid	Missing documentation	No	Open	Partially Paid
+M99CP63NEC	9633320114	1262446957	7/19/24	427	99214	A01.3	361	292	Commercial	Denied	Pre-existing condition	Yes	Denied	Paid
+TM2STRE477	3313250441	4929575146	7/19/24	353	99223	A18.7	259	253	Self-Pay	Paid	Service not covered	Yes	Partially Paid	Partially Paid
+4U3PWYYT8N	3839767585	5251136819	7/18/24	278	99233	A08.1	176	151	Medicare	Paid	Patient eligibility issues	No	Partially Paid	Denied
+QIGS8Q9MEP	9101127396	9806417639	7/3/24	246	99215	A08.5	205	191	Medicare	Paid	Duplicate claim	No	Denied	Partially Paid
+QIUN6AO9ZU	4939816976	1913580617	7/29/24	108	99223	A01.2	75	75	Commercial	Paid	Service not covered	Yes	Partially Paid	Paid
+BCI8Z8GZAG	5761052810	1497639548	7/29/24	220	99213	A18.6	171	159	Self-Pay	Under Review	Patient eligibility issues	Yes	Open	Paid
+D8WZASCOKT	6219754963	9125093388	7/19/24	139	99214	A01.2	90	73	Medicare	Paid	Missing documentation	No	Closed	Denied
+XA9XX1CF8K	5114736504	9947707227	7/10/24	121	99238	A04.6	85	80	Medicaid	Under Review	Service not covered	No	On Hold	Partially Paid
+JEBQKNOYID	7180728894	3179271995	7/11/24	184	99233	A01.4	134	130	Medicare	Paid	Patient eligibility issues	Yes	On Hold	Partially Paid
+2Y0VVPVIMZ	9466012917	6958399478	7/7/24	142	99223	A19.8	102	83	Commercial	Under Review	Missing documentation	Yes	Pending	Paid
+AAT5XZDTJW	9019802849	8854510199	7/12/24	316	99222	A04.8	222	215	Commercial	Under Review	Service not covered	No	Partially Paid	Denied
+8XK4VQ1I4J	7010381732	7056840684	7/9/24	350	99222	A05.3	249	230	Medicaid	Paid	Patient eligibility issues	Yes	Denied	Paid
+8YYM83RH9Y	4100457593	2187680072	7/27/24	101	99214	A19.9	64	57	Commercial	Under Review	Patient eligibility issues	No	On Hold	Denied
+21J06GW5M0	8318086127	5501402679	7/31/24	275	99223	A08.1	233	227	Medicare	Under Review	Service not covered	Yes	Pending	Paid
+IXC1HAAKNF	5528482343	4559607867	7/30/24	196	99231	A06.8	158	149	Medicare	Denied	Patient eligibility issues	Yes	On Hold	Paid
+C7O7E2BT7E	8522090959	7315199086	7/19/24	496	99231	A05.9	332	320	Medicaid	Paid	Pre-existing condition	No	Closed	Paid
+KR2U0NMU00	738777314	76371852	7/1/24	307	99222	A17.1	207	184	Commercial	Denied	Incorrect billing information	Yes	Pending	Paid
+S0JYIMQIN5	2310865330	8394713204	7/7/24	445	99231	A17.8	341	283	Medicaid	Denied	Lack of medical necessity	Yes	Partially Paid	Paid
+6C19YE4II2	5200827930	4587251076	7/14/24	259	99233	A07.1	197	180	Commercial	Denied	Incorrect billing information	Yes	Open	Denied
+PXRDXUQLR6	1074184298	2007529701	7/10/24	100	99223	A06.5	67	65	Self-Pay	Under Review	Authorization not obtained	No	Denied	Denied
+DH8YOGGD5Z	7043034800	7471264489	7/25/24	360	99222	A02.3	309	279	Medicare	Paid	Authorization not obtained	Yes	On Hold	Denied
+I3JZVOM5KP	1225510711	6126655376	7/26/24	299	99215	A16.9	222	190	Self-Pay	Paid	Authorization not obtained	No	Pending	Denied
+O5Z5W0ZO3S	421037848	5625571929	7/16/24	494	99222	A01.3	387	365	Commercial	Paid	Duplicate claim	No	Pending	Paid
+AUNCU3I1PP	7456221047	7979694445	7/28/24	369	99238	A06.2	275	243	Medicare	Denied	Authorization not obtained	Yes	Partially Paid	Paid
+NLGZ7UC9BJ	414230492	7719542133	7/14/24	322	99233	A18.4	226	209	Self-Pay	Under Review	Duplicate claim	No	Closed	Partially Paid
+26UZK6TQQ2	1700147911	5561575318	7/12/24	494	99223	A02.2	442	423	Medicaid	Under Review	Authorization not obtained	No	Partially Paid	Partially Paid
+VQVSCHTWGQ	9181670428	2340812559	7/28/24	475	99213	A06.9	414	407	Self-Pay	Under Review	Pre-existing condition	Yes	Open	Denied
+Y1WH3V1TPF	2995444435	3549654697	7/3/24	207	99233	A16.3	177	169	Commercial	Denied	Patient eligibility issues	Yes	Partially Paid	Denied
+U79659CUA1	8914853699	3191106842	7/21/24	355	99222	A16.1	233	217	Medicaid	Under Review	Service not covered	No	On Hold	Paid
+8J08C4J2BK	3699222175	3356739934	7/20/24	452	99223	A07.3	381	378	Self-Pay	Under Review	Duplicate claim	Yes	Partially Paid	Partially Paid
+K3SDSZZS3G	8004223765	4383992454	7/6/24	470	99213	A15.0	383	308	Medicaid	Under Review	Patient eligibility issues	No	Closed	Paid
+4ACZWJ3F5F	2792541069	9603542048	7/7/24	256	99233	A16.5	220	180	Self-Pay	Denied	Duplicate claim	Yes	Pending	Denied
+OYAQX3178P	873141871	9133253322	7/17/24	104	99213	A05.8	92	84	Medicare	Denied	Patient eligibility issues	Yes	Partially Paid	Partially Paid
+XY6SDTZAKM	5830535227	3690623221	7/14/24	191	99232	A08.4	148	125	Medicare	Under Review	Service not covered	No	Pending	Paid
+B800KVQCRH	582667570	629341153	7/4/24	205	99221	A03.9	173	169	Self-Pay	Paid	Duplicate claim	Yes	Denied	Denied
+BD6JMPH1IZ	7621560419	283562478	7/12/24	312	99231	A16.1	228	223	Medicare	Denied	Authorization not obtained	No	On Hold	Partially Paid
+ZJ1B6MZOYC	2101472532	568029226	7/14/24	344	99238	A05.4	261	209	Medicare	Under Review	Service not covered	No	Closed	Denied
+2QAVFOJ9GZ	7357410289	5465259486	7/19/24	106	99215	A04.6	76	62	Medicaid	Under Review	Duplicate claim	Yes	Closed	Denied
+WU3OXBPL3T	5161867397	2811006176	7/11/24	406	99231	A02.3	350	291	Medicaid	Under Review	Missing documentation	Yes	Closed	Denied
+0E609C7NUT	8212119836	1819347988	7/22/24	144	99215	A00.0	122	113	Self-Pay	Denied	Pre-existing condition	Yes	Denied	Paid
+U6MLFNT6IC	8969596515	7877349395	7/28/24	441	99222	A08.8	287	250	Medicare	Paid	Duplicate claim	No	Partially Paid	Partially Paid
+ERWFNE7M6D	8241932044	7427408093	7/18/24	249	99213	A18.6	156	139	Medicaid	Denied	Pre-existing condition	No	Closed	Partially Paid
+DE31P3T4TS	3215989543	7894751309	7/6/24	297	99213	A03.1	226	194	Medicaid	Denied	Service not covered	No	Open	Denied
+5UCYD1UOW7	494182752	1124235284	7/19/24	152	99231	A05.8	112	106	Self-Pay	Under Review	Patient eligibility issues	No	Partially Paid	Denied
+OQBPO0JDHO	32906689	4185835837	7/31/24	112	99214	A02.9	82	72	Medicare	Under Review	Lack of medical necessity	Yes	Closed	Denied
+92DA4ZTOLN	4271969639	1278823277	7/24/24	351	99214	A16.3	220	201	Medicare	Denied	Authorization not obtained	No	On Hold	Paid
+K5BCGKRQY3	1648924613	5182010994	7/30/24	378	99232	A07.3	295	266	Commercial	Denied	Authorization not obtained	No	Denied	Denied
+KV3RKW36MO	2604892506	4446018585	7/20/24	160	99233	A06.6	132	129	Medicare	Under Review	Duplicate claim	No	Partially Paid	Partially Paid
+T4VER0HQM2	3085868827	8505305846	7/2/24	334	99231	A16.4	238	214	Self-Pay	Under Review	Lack of medical necessity	Yes	Denied	Partially Paid
+85SHCLS6RB	6198103239	3613582551	7/11/24	156	99238	A19.1	105	86	Self-Pay	Denied	Missing documentation	No	Denied	Paid
+IZ8BSYN5X4	8100330154	5564767377	7/17/24	427	99213	A09.9	285	246	Commercial	Under Review	Missing documentation	Yes	Open	Paid
+ZQ640SEO54	1981579604	6738912846	7/28/24	394	99214	A01.5	248	217	Commercial	Under Review	Incorrect billing information	No	On Hold	Paid
+08KG46TN02	5530136830	2703285082	7/17/24	123	99238	A06.1	80	73	Commercial	Under Review	Pre-existing condition	Yes	Pending	Partially Paid
+ID5AXGTIDE	1875192791	6743799007	7/18/24	266	99223	A07.8	223	216	Medicaid	Paid	Authorization not obtained	Yes	Pending	Partially Paid
+FOM6YO0M18	1471448010	3682648369	7/20/24	106	99221	A03.1	84	72	Medicaid	Denied	Patient eligibility issues	No	Pending	Paid
+WL60FKOVWH	6386975836	6894773821	7/28/24	261	99213	A03.2	231	216	Commercial	Denied	Duplicate claim	Yes	Closed	Partially Paid
+CYYSJWFT1W	6069303896	8561702107	7/22/24	493	99233	A01.6	398	393	Medicaid	Paid	Pre-existing condition	Yes	Closed	Partially Paid
+E5PKD04BUK	3823473810	1742491080	7/24/24	118	99238	A08.3	85	77	Self-Pay	Denied	Duplicate claim	Yes	On Hold	Paid
+NO6GY7VPNW	3898126236	7755790536	7/11/24	411	99231	A01.9	366	363	Medicare	Under Review	Service not covered	No	Closed	Partially Paid
+PABV6OLKMQ	921406073	337136021	7/10/24	172	99232	A04.0	118	96	Medicaid	Under Review	Pre-existing condition	No	Partially Paid	Paid
+4IZXBHQOON	3805847847	1584279865	7/30/24	358	99214	A06.2	245	236	Self-Pay	Paid	Service not covered	No	On Hold	Paid
+4B1AHMG221	6266713415	9070895892	7/23/24	434	99215	A06.4	356	352	Commercial	Under Review	Incorrect billing information	Yes	Denied	Partially Paid
+YLF0TRZ099	7200068424	6822986567	7/21/24	415	99233	A17.8	349	315	Medicare	Paid	Patient eligibility issues	Yes	Closed	Paid
+M9H3WABYHK	2506623275	8185185880	7/18/24	360	99238	A08.9	232	193	Commercial	Under Review	Lack of medical necessity	No	Pending	Paid
+4VAB8I0DM3	3388958817	1611221492	7/21/24	373	99223	A19.1	250	213	Self-Pay	Under Review	Patient eligibility issues	No	Pending	Paid
+0AQ1RKI4OP	8410571076	2010629410	7/11/24	376	99238	A05.2	321	277	Medicaid	Under Review	Authorization not obtained	Yes	On Hold	Paid
+HGF6SVZ8XH	4295577634	3293176644	7/16/24	283	99214	A05.1	247	214	Commercial	Paid	Duplicate claim	Yes	Partially Paid	Denied
+VY8HSZ3J87	3015521505	7948989924	7/21/24	389	99221	A06.8	273	261	Commercial	Paid	Patient eligibility issues	No	Open	Paid
+QU9DY8FFQL	9018959331	7861561120	7/4/24	224	99238	A07.2	142	136	Medicare	Denied	Incorrect billing information	Yes	On Hold	Partially Paid
+HJES7YGQ7B	5812341342	1688804423	7/10/24	183	99215	A01.0	138	133	Medicaid	Denied	Missing documentation	No	Denied	Denied
+EC3CBF0A85	251596075	4256135804	7/26/24	297	99214	A07.1	216	203	Commercial	Denied	Lack of medical necessity	Yes	Partially Paid	Paid
+WWY9YQYOR5	801815815	1645428235	7/20/24	217	99214	A17.1	147	142	Medicare	Under Review	Authorization not obtained	Yes	On Hold	Paid
+HDHWAID8ZV	9638695179	6774835174	7/13/24	398	99214	A03.9	265	227	Medicare	Denied	Lack of medical necessity	Yes	Partially Paid	Paid
+A25OXEV0JO	9122941551	8439672012	7/9/24	269	99231	A07.9	186	154	Commercial	Under Review	Incorrect billing information	No	Open	Paid
+09YQMXRO6E	6587006327	1501023913	7/17/24	366	99231	A19.9	299	274	Self-Pay	Denied	Service not covered	Yes	Partially Paid	Partially Paid
+XCEM92G6KD	2727134506	6226018283	7/13/24	323	99222	A01.5	243	209	Medicare	Under Review	Lack of medical necessity	Yes	Partially Paid	Denied
+IDINVUDJGV	5145102885	413266303	7/30/24	212	99233	A01.2	143	122	Medicaid	Under Review	Authorization not obtained	No	Denied	Partially Paid
+2MNJ971AQC	9950651113	7845937520	7/22/24	212	99213	A17.9	183	149	Medicaid	Paid	Service not covered	Yes	Partially Paid	Paid
+LUGLSEXRHH	5771514089	5493920757	7/24/24	285	99222	A16.8	233	210	Self-Pay	Denied	Missing documentation	No	Pending	Paid
+VSZXB4RKBB	6610129623	3715469538	7/29/24	462	99213	A08.5	349	290	Medicare	Under Review	Missing documentation	No	Closed	Paid
+VW7UAO4ZXG	5067774157	9543358992	7/19/24	302	99213	A08.9	211	202	Medicare	Under Review	Authorization not obtained	No	Pending	Paid
+YKWF983LVJ	7625993237	2693287859	7/31/24	283	99231	A08.1	239	195	Commercial	Under Review	Patient eligibility issues	No	Denied	Paid
+HWFS54VKEP	3334983044	2635881471	7/14/24	286	99231	A02.3	176	175	Commercial	Denied	Pre-existing condition	No	Denied	Partially Paid
+6CE0BBF8CQ	1909558771	3504290891	7/12/24	334	99215	A08.9	284	260	Commercial	Paid	Patient eligibility issues	No	Denied	Paid
+R7YZ5O4B4N	5752310883	2570622396	7/31/24	161	99231	A03.0	136	113	Medicare	Under Review	Authorization not obtained	No	Pending	Paid
+I0COEIQ712	1546641534	1931012006	7/15/24	286	99213	A01.9	174	171	Commercial	Under Review	Authorization not obtained	No	Partially Paid	Paid
+QB701VMD0V	7759270927	8611941725	7/10/24	388	99231	A05.3	249	221	Medicaid	Paid	Pre-existing condition	No	Partially Paid	Denied
+MEI0899HP0	452450834	6104869152	7/13/24	281	99231	A08.4	177	152	Medicaid	Paid	Duplicate claim	Yes	Partially Paid	Paid
+KRG7YQLWBN	8240863264	5248542589	7/31/24	455	99233	A03.3	348	338	Medicare	Denied	Service not covered	Yes	Open	Denied
+VXI14OAQE1	5875022334	3085760271	7/2/24	204	99222	A03.2	148	126	Self-Pay	Paid	Authorization not obtained	Yes	Closed	Partially Paid
+ZXOBOP6L8H	6840073699	1821811106	7/29/24	389	99233	A02.8	253	211	Medicare	Paid	Lack of medical necessity	No	Pending	Paid
+QCXU5JFFML	4857852547	4151838566	7/25/24	220	99233	A01.4	162	139	Medicare	Denied	Pre-existing condition	No	Open	Partially Paid
+11SI0FEVCZ	9401153941	1845151929	7/7/24	465	99233	A06.2	288	263	Medicaid	Under Review	Duplicate claim	Yes	On Hold	Partially Paid
+QG3I81VTP5	3017601513	3000247688	7/12/24	280	99214	A17.0	233	200	Self-Pay	Paid	Authorization not obtained	Yes	On Hold	Paid
+OEZKXF81QT	547646649	297896800	7/2/24	249	99233	A05.5	218	203	Medicare	Denied	Incorrect billing information	No	On Hold	Paid
+D9R8OPQ6PN	793224766	1011587480	7/7/24	159	99215	A01.6	101	86	Self-Pay	Paid	Missing documentation	Yes	Closed	Partially Paid
+6EIFSH68A3	9250381057	8644938101	7/30/24	274	99232	A15.0	242	218	Self-Pay	Denied	Incorrect billing information	No	On Hold	Denied
+6YM52JTHQL	2299991605	4493236409	7/15/24	263	99221	A17.8	216	195	Medicaid	Paid	Pre-existing condition	Yes	Partially Paid	Denied
+PU7B1FLNO6	5293925593	8115607354	7/22/24	316	99232	A04.6	224	220	Medicaid	Denied	Service not covered	Yes	Pending	Partially Paid
+HC9LR7VEQS	100875317	2801508444	7/8/24	457	99232	A01.5	369	345	Medicaid	Paid	Duplicate claim	Yes	Partially Paid	Denied
+IS9CL0VECF	2577958286	8650846947	7/24/24	500	99238	A01.6	431	373	Self-Pay	Paid	Authorization not obtained	Yes	Pending	Partially Paid
+9RDYPMJSSS	3148229307	2515202995	7/4/24	394	99231	A06.1	304	276	Self-Pay	Under Review	Missing documentation	Yes	Partially Paid	Denied
+VLSMLSXDZJ	3018575271	9455298	7/26/24	146	99232	A17.8	113	106	Commercial	Under Review	Pre-existing condition	Yes	On Hold	Denied
+4E3WRFQ5PL	173442974	9256705780	7/21/24	276	99231	A04.9	179	174	Self-Pay	Under Review	Missing documentation	No	On Hold	Partially Paid
+AOJYLP8SSR	68556660	44413688	7/10/24	231	99238	A19.1	186	169	Commercial	Under Review	Service not covered	Yes	Open	Paid
+5A82KGOBPF	612830199	2524568194	7/16/24	319	99232	A16.3	229	223	Commercial	Under Review	Patient eligibility issues	Yes	On Hold	Partially Paid
+ICOL1ONOMG	4269876839	3180402684	7/1/24	387	99238	A03.8	256	212	Commercial	Paid	Incorrect billing information	Yes	Closed	Denied
+297BH25GH1	394376347	4847749483	7/3/24	215	99214	A15.1	165	138	Medicare	Paid	Lack of medical necessity	Yes	Open	Paid
+BUJ5W7AU7Y	4794027394	6600558775	7/6/24	332	99233	A16.7	266	228	Self-Pay	Under Review	Lack of medical necessity	No	On Hold	Denied
+VGZCXGA88E	2252917045	8396644866	7/4/24	126	99213	A00.9	89	79	Medicare	Paid	Incorrect billing information	No	Pending	Partially Paid
+EUEQ7L2NXY	857885656	9457452499	7/30/24	232	99223	A17.9	188	167	Medicaid	Under Review	Pre-existing condition	No	Open	Denied
+64BXHI5GEZ	6596054863	6385714360	7/2/24	368	99231	A18.4	319	304	Commercial	Paid	Duplicate claim	Yes	Open	Denied
+95MSH5JUEO	9732826920	3450599574	7/2/24	325	99213	A18.0	204	165	Commercial	Under Review	Incorrect billing information	No	Open	Denied
+AKGD3IWSN1	8550510442	5857603017	7/12/24	397	99222	A04.3	268	220	Commercial	Denied	Authorization not obtained	No	On Hold	Paid
+Q9J55DIMLR	2766789913	9757787667	7/7/24	128	99213	A02.2	83	75	Medicare	Paid	Authorization not obtained	Yes	Partially Paid	Paid
