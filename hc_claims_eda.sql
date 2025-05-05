@@ -1,3 +1,6 @@
+-- These SQL scripts are mainly used for Exploratory Data Analysis (EDA) including missing-value checks, key numeric summaries, and distribution analyses 
+-- on the claims dataset. It also examines categorical frequencies and month-over-month trends to uncover patterns and outliers.
+
 -- 1. null_value_summary.sql
 -- This query counts missing (NULL) values for each column to assess data completeness.
 SELECT
